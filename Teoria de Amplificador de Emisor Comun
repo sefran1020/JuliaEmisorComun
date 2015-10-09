@@ -1,1 +1,4 @@
-\tau
+En este archivo se intenta determinar la salida de un amplificador de emisor comun con BJT usando la caracterisitica exponencial.
+Todos sabemos que en transistor BJT la corriente en el colector o el emisor es controlado por el voltaje en la union base emisor
+es:
+$$i_e=I_Se^(v_{BE}(t)/v_t)$$
